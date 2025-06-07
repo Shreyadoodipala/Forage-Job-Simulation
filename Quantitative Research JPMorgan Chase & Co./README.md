@@ -1,4 +1,4 @@
-## JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage - December 2024
+<h1>JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage - <i>December 2024</i></h1>
 
 - Completed a simulation focused on quantitative research methods
 - Analyzed a book of loans to estimate a customer's probability of default
